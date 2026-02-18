@@ -21,48 +21,38 @@ Security should enable velocity, not kill it. Opinions my own.
 
 ## 🔐 Certifications
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Microsoft-Security_Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/><br/>
-      <sub>Issued Feb 2026</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/><br/>
-      <sub>Issued Feb 2026</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Azure-AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/><br/>
-      <sub>Issued Jan 2026</sub>
-    </td>
-  </tr>
+<h3>Microsoft</h3>
+<p>
+<img src="https://img.shields.io/badge/Microsoft-Security_Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
 
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/><br/>
-      <sub>2025–2028</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/><br/>
-      <sub>Valid</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Pro-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-    </td>
-  </tr>
+<h3>AWS – Professional</h3>
+<p>
+<img src="https://img.shields.io/badge/AWS-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-DevOps_Engineer_Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Security_Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AWS-DevOps_Engineer_Pro-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AWS-Security_Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/TOGAF-Certified-4B275F?style=for-the-badge"/>
-    </td>
-  </tr>
-</table>
+<h3>AWS – Associate</h3>
+<p>
+<img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Developer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-SysOps_Administrator_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+<h3>AWS – Foundational & AI</h3>
+<p>
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-AI_Practitioner_(Early_Adopter)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+<h3>Architecture</h3>
+<p>
+<img src="https://img.shields.io/badge/TOGAF-Certified-4B275F?style=for-the-badge"/>
+</p>
+
 
 ---
 
