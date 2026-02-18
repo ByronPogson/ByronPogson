@@ -1,6 +1,6 @@
 <div align="center">
 
-# Byron Gor
+# Byron Pogson
 ### Cloud Security Architect · Multi-Cloud Strategist · Trusted Advisor
 
 *Building secure foundations for organisations that move fast and can't afford to break things*
